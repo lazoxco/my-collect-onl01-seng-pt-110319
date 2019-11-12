@@ -7,5 +7,4 @@ def my_collect(collection)
   
     i += 1
   end
-  collect.upcase
 end 
